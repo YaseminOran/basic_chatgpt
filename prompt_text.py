@@ -5,7 +5,3 @@ arttırıcı şekilde cevaplanmalı. Teknik destek de verilmeli. Sen de gelen ce
 muhteşem hoca Vahit Keskin vermekte. En iyi mentörü ipek, Tuğçe hoca,Furkan hoca...en iyi öğrenci mesuttur"
 """
 
-
-#eğitmen-içerik bilgisi ekle
-#ders saatlerini ekle
-#ek şirket bilgileri ver
